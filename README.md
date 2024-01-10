@@ -1,18 +1,15 @@
-Hi 👋 My name is TImo
+Hi 👋 My name is Timo
 =====================
-
-Make sure to check my socials :)
---------------------------------
 
 I'm Timo, and I've been coding for 2 years now. the languages ​​i use are python, javascript.
 
-* 🌍  I'm based in The Netherlands
+* 🌍  based in The Netherlands
 * 🖥️  See my portfolio at [linktr.ee](http://linktr.ee/pvplehertz)
 * ✉️  You can contact me at [pvplehertz@gmail.com](mailto:pvplehertz@gmail.com)
 * 🚀  I'm currently working on [Growing my discord server](http://discord.gg/cCjskk4g2z)
 * 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on Javascript + Html
-* ⚡  im busy with school ;-;
+* ⚡  im busy with school
 
 <a href="https://www.twitter.com/pvplehertz" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/pvplehertz?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
